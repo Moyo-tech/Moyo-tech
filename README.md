@@ -1,5 +1,5 @@
 ### Hi there 👋
-- 👋 Hi, I am Moyo
+- 👋 I am Moyo
 - 🌱 I’m interested in Software Engineering
 - 👯 I’m looking to collaborate with diverse minds and diverse talent
 - 📫 How to reach me: wekemoyo@gmail.com
