@@ -1,6 +1,6 @@
 ### Hi there 👋
 - 👋 I am @Moyo-tech
-- 🌱 I’m interested in Software Engineering
+- 🌱 I am a Frontend Developer
 - 👯 I’m looking to collaborate with diverse minds and diverse talent
 - 📫 How to reach me: wekemoyo@gmail.com
 ###
@@ -11,7 +11,7 @@
 Here are some ideas to get you started:
 
 - 👋 Hi, I am Moyo
-- 🌱 I’m interested in Software Engineering
+- 🌱 I am a Frontend Developer
 - 👯 I’m looking to collaborate with diverse minds and diverse talent
 - 📫 How to reach me: wekemoyo@gmail.com
 -->
