@@ -19,7 +19,7 @@
 <br><br>
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
-[![Moyo-tech's GitHub stats](https://github-readme-stats.vercel.app/api?username=moyo-tech&count_private=true&show_icons=true&include_all_commits=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40)](https://github.com/moyo-tech/github-readme-stats) 
+[![Moyo-tech's GitHub stats](https://github-readme-stats.vercel.app/api?username=moyo-tech&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40)](https://github.com/moyo-tech/github-readme-stats) 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=moyo-tech&layout=compact)](https://github.com/moyo-tech/github-readme-stats)
 <!--
