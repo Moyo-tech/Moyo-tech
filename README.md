@@ -11,10 +11,9 @@
 
 <br>
 
-- A passionate Self-taught Front-end developer
-- Dancing during my free time
+- Passionate software engineer with experience in frontend development and AI projects, adept at translating complex requirements into intuitive solutions.
 - Reach out to me here [link](wekemoyo@gmail.com)
-- I’m currently open for an Intern or a new job opportunity, this is [my resume](https://drive.google.com/file/d/1SfSXvzXomhYRJC6JyM7BCkcHIS2otWT-/view?usp=share_link) and [portfolio](https://moyosoreweke.vercel.app/)
+- I’m currently open for an Intern or a new job opportunity, here is [my resume](https://drive.google.com/file/d/1LzM1lOi37e3ncKsUltzQ-TvsBzmgGahl/view?usp=sharing) and [portfolio](https://moyosoreweke.vercel.app/)
 
 <br><br>
 
