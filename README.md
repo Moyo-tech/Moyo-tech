@@ -18,9 +18,20 @@
 <br><br>
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
-[![Moyo-tech's GitHub stats](https://github-readme-stats.vercel.app/api?username=moyo-tech&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40)](https://github.com/moyo-tech/github-readme-stats) 
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=moyo-tech&layout=compact)](https://github.com/moyo-tech/github-readme-stats)
+<a href="https://github.com/moyo-tech/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=moyo-tech" />
+</a>
+<a href="https://github.com/Moyo-tech/NarrativeNest">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=moyo-tech&layout=compact&langs_count=8&card_width=320" />
+</a>
+<hr>
+<h3>Top 2 Repo's</h3>
+<a href="https://github.com/Moyo-tech/NarrativeNest">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=moyo-tech&repo=NarrativeNest" />
+</a>
+<a href="https://github.com/Moyo-tech/DermDetect-AI">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=moyo-tech&repo=DermDetect-AI" />
+</a>
 <!--
 **Moyo-tech/Moyo-tech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
