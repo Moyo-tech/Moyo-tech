@@ -1,7 +1,7 @@
 <h1 align="center"><b>Hi , I'm Moyo Weke</b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Welcome+To+My+Profile..&hearts;++;Self-taught+Front-End+Developer,;Computer+Science+Student,;Active+Learner/Researcher,;Love+to+learn+new+stuffs..<3"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Welcome+To+My+Profile..&hearts;++;Sofware+Engineer,;Machine+Learning+Engineer,;AI+Enthusiast,;Detail+Oriented..<3"></a>
 </p>
 <br>
 
@@ -11,9 +11,9 @@
 
 <br>
 
-- Passionate software engineer with experience in frontend development and AI projects, adept at translating complex requirements into intuitive solutions.
+- Passionate software engineer with a solid background in Full stack development open to exploring AI and Machine Learning Projects and AI projects.
 - Reach out to me here [link](wekemoyo@gmail.com)
-- I’m currently open for an Intern or a new job opportunity, here is [my resume](https://drive.google.com/file/d/1LzM1lOi37e3ncKsUltzQ-TvsBzmgGahl/view?usp=sharing) and [portfolio](https://moyosoreweke.vercel.app/)
+- I’m currently open for freelance and full time Job opportunities, here is [my resume](https://drive.google.com/file/d/1LzM1lOi37e3ncKsUltzQ-TvsBzmgGahl/view?usp=sharing) and [portfolio](https://moyosoreweke.vercel.app/)
 
 <br><br>
 
