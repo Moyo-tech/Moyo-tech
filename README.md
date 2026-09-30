@@ -23,7 +23,9 @@ AI evaluations · model behaviour · human agency · monitoring and oversight ·
 
 Developing stronger empirical and research-engineering foundations through ARENA, independent study, and my own evaluation projects. My background spans software and product engineering, frontend and full-stack development, UX, and applied ML.
 
-## Links
+## 🌐 Connect with Me
 
-- [Website](https://moyosoreweke.framer.website/)
-- [LinkedIn](https://www.linkedin.com/in/moyosoreweke/)
+[![Website](https://img.shields.io/badge/Website-Visit-263238?style=flat-square)](https://moyosoreweke.framer.website/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/moyosoreweke/)
+[![Dribbble](https://img.shields.io/badge/Dribbble-Design%20work-EA4C89?style=flat-square&logo=dribbble&logoColor=white)](https://dribbble.com/moyoweke)
+[![Contra](https://img.shields.io/badge/Contra-Projects-202124?style=flat-square)](https://contra.com/weke_moyosore)
